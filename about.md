@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+**Hello World!.** My name is Mandar Kakade. I love to Code, appreciate Logic and enjoy silly pun based jokes. :smile:
+I am currently persuing a major in Mathematics and Computing at IIT Kharagpur,India.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Email](mailto:mandaravikakade@gmail.com)
+[GitHub](https://github.com/MandarMK)
