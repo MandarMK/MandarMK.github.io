@@ -15,7 +15,3 @@ title: KWOC 2016-17
   La-Z-Boy further had features like saving the schedule in a pdf format.  Also, many improvements have been made since.  
   
   In all, I really cherished the experience. Special thanks to Rishabh for guiding me throughout the project and all the invaluable suggestions and corrections he made. A thanks to all of the KOSS team for putting up such a phenomenal event. 
-
-
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
