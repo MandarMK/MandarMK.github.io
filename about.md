@@ -11,5 +11,5 @@ I am currently persuing a major in Mathematics and Computing at **IIT Kharagpur,
 
 ### Contact me
 
-[Email](mailto:mandaravikakade@gmail.com)
+[Email](mailto:mandaravikakade@gmail.com)  
 [GitHub](https://github.com/MandarMK)
